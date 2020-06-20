@@ -36,7 +36,7 @@ namespace ecoletaApi
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseHttpsRedirection();
+            
 
             app.UseRouting();
 
